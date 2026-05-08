@@ -19,4 +19,9 @@ ejemplo tienda con un objecto que hace descuento
 
 mongodb+srv://vreniz_db_user:<db_password>@weather.flhnrnf.mongodb.net/?appName=weather
 
+PORT=3000
+MONGO_URI=mongodb+srv://vreniz_db_user:TU_CONTRASEÑA_AQUI@weather.flhnrnf.mongodb.net/weatherdb?appName=weather
+WEATHER_API_KEY=tu_key_de_openweathermap
+
+
 
