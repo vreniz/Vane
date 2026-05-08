@@ -7,4 +7,15 @@ ollama run phi
 ollama main.py
 
 https://www.grammarcheck.net/editor/
+funcion dentro del elemento de un objeto
+
+ejemplo d lo que calcula la nota de forma inmediata
+
+function this
+
+el return con el dist
+
+ejemplo tienda con un objecto que hace descuento
+
+
 
