@@ -5,3 +5,6 @@ y el main.py
 
 ollama run phi 
 ollama main.py
+
+https://www.grammarcheck.net/editor/
+
