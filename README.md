@@ -17,5 +17,6 @@ el return con el dist
 
 ejemplo tienda con un objecto que hace descuento
 
+mongodb+srv://vreniz_db_user:<db_password>@weather.flhnrnf.mongodb.net/?appName=weather
 
 
